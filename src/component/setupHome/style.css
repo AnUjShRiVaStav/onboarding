@@ -1,0 +1,39 @@
+.setup{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.work_space{
+    display: flex;
+}
+.option{
+    color: #92a0ad;
+}
+.setup_content{
+    opacity: 0.6;
+    margin-top: 15px;
+    font-weight: 500;  
+}
+.setup_sub_head{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.work{
+    height: 40px;
+    margin-top: 5px;
+    display: flex;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+    align-items: center;
+    background: #92a0ad;
+    outline: none;
+    padding: 0 15px;
+    font-weight: 400;
+    font-size: 16px;
+
+    border: 1px solid #f1f1d9;
+    border-right: none !important;
+}

@@ -1,0 +1,45 @@
+.welcome{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.form_container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.wel_sub_heading{
+     margin-top: 7rem;   
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.wel_content{
+    opacity: 0.6;
+    margin-top: 15px;
+    font-weight: 500;   
+}
+
+.full_name{
+    margin-top: 10px;
+}
+input{
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 15px;
+    font-weight: 300;
+    font-size: 16px;
+    border: 1px solid #f1f1d9;
+}
+.display_name{
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.sub_btn{
+    margin-top: 10px;
+}

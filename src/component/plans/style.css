@@ -1,0 +1,51 @@
+.plan{
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    justify-content: center;
+}
+.p_sub_heading{
+    
+    font-size: 32px;
+    font-weight: 700;
+}
+.p_content{
+    opacity: 0.6;
+    margin-top: 15px;
+    font-weight: 500;  
+}
+
+.p_card{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+.card{
+    padding: 20px 20px;
+    width: 150px;
+    margin-top: 20px;
+    font-size: 26px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    border: 1px solid rgb(64, 64, 168);          
+}
+.user_icon{
+  color: rgb(64, 64, 168); 
+}
+.card_head{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.card_content{
+    margin-top: 18px;
+    font-size: 15px;
+    opacity: 0.5;
+    font-weight: 500;
+}
+
+
+

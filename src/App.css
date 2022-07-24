@@ -1,0 +1,39 @@
+.app{
+        
+    display: flex;
+    align-items: center;
+    /* max-width: 40%; */
+    flex-direction: column;
+    position: absolute;
+    left: 32%;
+}
+
+.progress{
+    margin-bottom: 20px;
+    display: flex;
+    gap: 130px;
+}
+.one{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    background: rgb(64, 64, 168);
+}
+
+.css-1aquho2-MuiTabs-indicator{
+    width: 0 !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    width: 0 !important;
+    height: 0 !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+min-width: 73px !important;
+min-height: 62px !important;
+}
